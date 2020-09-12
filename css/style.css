@@ -1,12 +1,6 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@font-face {
-  font-family: Baskerville;
-  src: url()
-}
-
-
 h1 {
   font-family: Baskerville;
 }
