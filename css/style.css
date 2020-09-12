@@ -8,6 +8,10 @@
 }
 
 /*////////// Global Styles //////////*/
+h1 {
+  font-family: 'Baskerville'
+}
+
 
 body {
 	background: #F3EBE9;
